@@ -7,7 +7,7 @@
 @font-face {
   font-family: 'FontAwesome';
   src: url('https://rawcdn.githack.com/jairoruizquintero/plantillaintricate/9cb5b6410f7738d65df3d1d1cf5d936a1908e692/fontawesome-webfont.eot?v=4.7.0');
-  src: url('https://rawcdn.githack.com/jairoruizquintero/plantillaintricate/9cb5b6410f7738d65df3d1d1cf5d936a1908e692/fontawesome-webfont.eot?#iefix&v=4.7.0') format('embedded-opentype'), url('../fonts/fontawesome-webfont.woff2?v=4.7.0') format('woff2'), url('../fonts/fontawesome-webfont.woff?v=4.7.0') format('woff'), url('../fonts/fontawesome-webfont.ttf?v=4.7.0') format('truetype'), url('../fonts/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular') format('svg');
+  src: url('https://rawcdn.githack.com/jairoruizquintero/plantillaintricate/9cb5b6410f7738d65df3d1d1cf5d936a1908e692/fontawesome-webfont.eot?#iefix&v=4.7.0') format('embedded-opentype'), url('https://rawcdn.githack.com/jairoruizquintero/plantillaintricate/b4baf77699f5261e60cb395139dc9a2666d69319/fontawesome-webfont.woff2?v=4.7.0') format('woff2'), url('https://rawcdn.githack.com/jairoruizquintero/plantillaintricate/b4baf77699f5261e60cb395139dc9a2666d69319/fontawesome-webfont.woff?v=4.7.0') format('woff'), url('https://rawcdn.githack.com/jairoruizquintero/plantillaintricate/b4baf77699f5261e60cb395139dc9a2666d69319/fontawesome-webfont.ttf?v=4.7.0') format('truetype'), url('https://rawcdn.githack.com/jairoruizquintero/plantillaintricate/b4baf77699f5261e60cb395139dc9a2666d69319/glyphicons-halflings-regular.svg?v=4.7.0#fontawesomeregular') format('svg');
   font-weight: normal;
   font-style: normal;
 }
